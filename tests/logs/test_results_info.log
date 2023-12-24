@@ -1,0 +1,15 @@
+INFO     root:conftest.py:16 START SERVER...
+INFO     root:conftest.py:27 SERVER STARTED
+INFO     root:conftest.py:37 CONNECT TO DEVICE..
+INFO     root:conftest.py:41 DEVICE emulator-5554 Android 13 CONNECTED
+INFO     root:conftest.py:14 emulator-5554 Android 13 init LoginPage..
+INFO     root:test_side_bars.py:12 emulator-5554 Android 13 GO TO HOME PAGE..
+INFO     root:conftest.py:22 emulator-5554 Android 13 init HomePage..
+INFO     root:test_side_bars.py:26 emulator-5554 Android 13 TESTING //*[@resource-id="com.ajaxsystems:id/settings"] button
+INFO     root:conftest.py:22 emulator-5554 Android 13 init HomePage..
+INFO     root:test_side_bars.py:26 emulator-5554 Android 13 TESTING //*[@resource-id="com.ajaxsystems:id/help"] button
+INFO     root:conftest.py:22 emulator-5554 Android 13 init HomePage..
+INFO     root:test_side_bars.py:26 emulator-5554 Android 13 TESTING //*[@resource-id="com.ajaxsystems:id/logs"] button
+INFO     root:conftest.py:22 emulator-5554 Android 13 init HomePage..
+INFO     root:test_side_bars.py:26 emulator-5554 Android 13 TESTING //android.widget.Button button
+INFO     root:conftest.py:46 emulator-5554 Android 13 END SESSION
